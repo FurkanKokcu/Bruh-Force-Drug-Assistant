@@ -19,3 +19,10 @@ Basit bir PyQt5 tabanlı masaüstü uygulaması. Kullanıcıya bir ilaç listesi
 
 ```bash
 pip install PyQt5 pandas
+```
+
+---
+##Çalıştırmak için
+```bash
+python bruhforce drug assistant.py
+```
