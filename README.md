@@ -22,7 +22,7 @@ pip install PyQt5 pandas
 ```
 
 ---
-##Çalıştırmak için
+## Çalıştırmak için
 ```bash
 python bruhforce drug assistant.py
 ```
