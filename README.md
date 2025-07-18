@@ -1,5 +1,7 @@
 # Bruh-Force-Drug-Assistant
 
+![Uygulama Ekran Görüntüsü](image.png)
+
 Basit bir PyQt5 tabanlı masaüstü uygulaması. Kullanıcıya bir ilaç listesi sunar ve seçilen ilacın kategori, kontrendikasyon, yan etki ve doz bilgilerini gösterir.
 
 ---
